@@ -106,3 +106,30 @@ color: black;
     text-decoration: none;
     color: white;  
 }
+.blocks img{
+width: 250px;
+height: 250px;
+}
+.box1 img{
+    margin-top: 1100px;
+    width: 250px;
+height: 250px;
+}
+.box2 img{
+    padding-left: 300px;
+    margin-top: -255px;
+    width: 255px;
+height: 255px;
+}
+.box3 img{
+    padding-left: 600px;
+    margin-top: -255px;
+    width: 260px;
+height: 260px;   
+}
+.box4{
+    padding-left: 900px;
+    margin-top: -255px;
+    width: 260px;
+height: 260px;   
+}
